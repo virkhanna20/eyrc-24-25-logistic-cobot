@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+install/
+log/
+devel/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ROS bags
+*.bag
+*.db3
