@@ -4,7 +4,7 @@ An **Autonomous Mobile Manipulator** that navigates a warehouse, detects package
 
 Built as part of the **e-Yantra Robotics Competition (eYRC) 2024-25** organized by IIT Bombay, under the Logistic coBot theme.
 
-## Demo
+## How does it work?
 
 The system operates end-to-end autonomously:
 
